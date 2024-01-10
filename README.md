@@ -2,7 +2,7 @@
 
 ![image](https://github.com/sahilatahar/google-docs-clone/assets/100127570/28e1be5b-e098-4875-9075-9a8c38660818)
 
-Google-doc-clone is a real-time collaboration application that enables multiple users to collaboratively edit documents simultaneously.
+Google-docs-clone is a real-time collaboration application that enables multiple users to collaboratively edit documents simultaneously.
 
 ## Features
 
